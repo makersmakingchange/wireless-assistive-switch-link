@@ -18,7 +18,7 @@ The device can operate in several modes:
 The mode can be changed by pressing the Mode Button on the Receiver. See the User Guide for instructions.
 
 
-<img src="Photos/Wireless_Assistive_Switch_Link.jpg" width="500" alt="A picture of the Wireless Assistive Switch Link. An Interact Switch is attached to the transmitter and a switch adapted whale toy is attached to the receiver.">
+<img src="Photos/Wireless_Assistive_Switch_Link.jpg" width="500" alt="A picture of a 3d printed  Wireless Assistive Switch Link. An Interact Switch is attached to the transmitter and a switch adapted whale toy is attached to the receiver.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/wireless-assistive-switch-link/)
